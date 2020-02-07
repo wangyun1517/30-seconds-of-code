@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "builder": "^3.2.3",
-    "concurrently": "^3.5.1",
+    "concurrently": "^5.1.0",
     "fs-extra": "^4.0.2",
     "html-minifier": "^3.5.7",
     "live-server": "^1.2.0",

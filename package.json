@@ -3,7 +3,7 @@
     "builder": "^3.2.3",
     "concurrently": "^3.5.1",
     "fs-extra": "^4.0.2",
-    "html-minifier": "^3.5.7",
+    "html-minifier": "^4.0.0",
     "live-server": "^1.2.0",
     "markdown-it": "^8.4.0",
     "node-sass": "^4.7.2",

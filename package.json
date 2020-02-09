@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "builder": "^3.2.3",
+    "builder": "^5.0.0",
     "concurrently": "^3.5.1",
     "fs-extra": "^4.0.2",
     "html-minifier": "^3.5.7",
